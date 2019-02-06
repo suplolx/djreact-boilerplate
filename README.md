@@ -24,11 +24,25 @@ Migrate database migrations
 python manage.py migrate
 ```
 
+Install node modules
+
+```
+npm install
+```
+
+Build static files
+
+```
+npm run dev
+```
+
 Run the server!
 
 ```
 python manage.py runserver
 ```
+
+Browse to http://localhost:8000 on your local machine
 
 # Includes
 
