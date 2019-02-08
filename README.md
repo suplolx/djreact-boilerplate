@@ -3,7 +3,7 @@
 Simply clone the repository to your local workspace
 
 ```
-git clone https://github.com/suplolx/djangorestframework-boilerplate.git
+git clone https://github.com/suplolx/djreact-boilerplate.git
 ```
 
 Create **and activate** a virtualenv (optional)
